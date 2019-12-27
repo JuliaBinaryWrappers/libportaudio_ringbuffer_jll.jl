@@ -1,0 +1,113 @@
+[[libportaudio_ringbuffer]]
+arch = "armv7l"
+git-tree-sha1 = "7d62ea1fb024cc0483a92d516a6fd89797e78ffe"
+libc = "glibc"
+os = "linux"
+
+    [[libportaudio_ringbuffer.download]]
+    sha256 = "95e24b36e320d731a758ec126a75b25069ec9f8ad5f52d00df82794a39f78b85"
+    url = "https://github.com/JuliaBinaryWrappers/libportaudio_ringbuffer_jll.jl/releases/download/libportaudio_ringbuffer-v19.6.0+0/libportaudio_ringbuffer.v19.6.0.arm-linux-gnueabihf.tar.gz"
+[[libportaudio_ringbuffer]]
+arch = "x86_64"
+git-tree-sha1 = "8801d52f951fcb72217ee90be85d36235f9e7aac"
+libc = "glibc"
+os = "linux"
+
+    [[libportaudio_ringbuffer.download]]
+    sha256 = "071c5b00e56860c40dc94be12faf5b920ac847d3e67ee7981efa45d38f86ddb0"
+    url = "https://github.com/JuliaBinaryWrappers/libportaudio_ringbuffer_jll.jl/releases/download/libportaudio_ringbuffer-v19.6.0+0/libportaudio_ringbuffer.v19.6.0.x86_64-linux-gnu.tar.gz"
+[[libportaudio_ringbuffer]]
+arch = "aarch64"
+git-tree-sha1 = "ba1532760773710be2a64e8f721a333ba1f24d36"
+libc = "musl"
+os = "linux"
+
+    [[libportaudio_ringbuffer.download]]
+    sha256 = "9253099c07d0ddec51a855eceb629de319b80299f3bcb8d66bb99df4109d3e6b"
+    url = "https://github.com/JuliaBinaryWrappers/libportaudio_ringbuffer_jll.jl/releases/download/libportaudio_ringbuffer-v19.6.0+0/libportaudio_ringbuffer.v19.6.0.aarch64-linux-musl.tar.gz"
+[[libportaudio_ringbuffer]]
+arch = "powerpc64le"
+git-tree-sha1 = "e055c21370e9cc72a7fc31c5bd5d4254f5a29fa5"
+libc = "glibc"
+os = "linux"
+
+    [[libportaudio_ringbuffer.download]]
+    sha256 = "a46701eaa457c5a9341bda5c1d1fe37636c2b1f181729f5e9c2d014fe3b6a83e"
+    url = "https://github.com/JuliaBinaryWrappers/libportaudio_ringbuffer_jll.jl/releases/download/libportaudio_ringbuffer-v19.6.0+0/libportaudio_ringbuffer.v19.6.0.powerpc64le-linux-gnu.tar.gz"
+[[libportaudio_ringbuffer]]
+arch = "x86_64"
+git-tree-sha1 = "ce9ab976b73fba2cba232ffd2aa512f5dcf02d0b"
+os = "macos"
+
+    [[libportaudio_ringbuffer.download]]
+    sha256 = "af233b4debfbf02f5742c8e6587933e14fc635c6094d4291c02683c7584e3a62"
+    url = "https://github.com/JuliaBinaryWrappers/libportaudio_ringbuffer_jll.jl/releases/download/libportaudio_ringbuffer-v19.6.0+0/libportaudio_ringbuffer.v19.6.0.x86_64-apple-darwin14.tar.gz"
+[[libportaudio_ringbuffer]]
+arch = "x86_64"
+git-tree-sha1 = "181bea1df4b1df5f9e7713e59d437eab982f03bf"
+libc = "musl"
+os = "linux"
+
+    [[libportaudio_ringbuffer.download]]
+    sha256 = "eee120fe7fdb49d02e6f2b5ac9fff50edd9d77bef370dc3568fd07c46322bf80"
+    url = "https://github.com/JuliaBinaryWrappers/libportaudio_ringbuffer_jll.jl/releases/download/libportaudio_ringbuffer-v19.6.0+0/libportaudio_ringbuffer.v19.6.0.x86_64-linux-musl.tar.gz"
+[[libportaudio_ringbuffer]]
+arch = "x86_64"
+git-tree-sha1 = "1f32770b4d77eca395c7ff4a8329eb9adb23a6f8"
+os = "windows"
+
+    [[libportaudio_ringbuffer.download]]
+    sha256 = "4e2a558196ffee3bc2c656aa4a34c11e4e0cabc8c6f5efd08235ee806801499c"
+    url = "https://github.com/JuliaBinaryWrappers/libportaudio_ringbuffer_jll.jl/releases/download/libportaudio_ringbuffer-v19.6.0+0/libportaudio_ringbuffer.v19.6.0.x86_64-w64-mingw32.tar.gz"
+[[libportaudio_ringbuffer]]
+arch = "i686"
+git-tree-sha1 = "8e57d6702053196dec33e5e8b9029002d19314ab"
+libc = "glibc"
+os = "linux"
+
+    [[libportaudio_ringbuffer.download]]
+    sha256 = "cee84ad8c6b114ffe907b76c13c55fe2ddc8928847c896d32f7c858b8669b6d6"
+    url = "https://github.com/JuliaBinaryWrappers/libportaudio_ringbuffer_jll.jl/releases/download/libportaudio_ringbuffer-v19.6.0+0/libportaudio_ringbuffer.v19.6.0.i686-linux-gnu.tar.gz"
+[[libportaudio_ringbuffer]]
+arch = "aarch64"
+git-tree-sha1 = "c63a2798f9f940dfc7171e52558725e0b2c2d14b"
+libc = "glibc"
+os = "linux"
+
+    [[libportaudio_ringbuffer.download]]
+    sha256 = "b07005acc3b3b52ec316e2db5f0d447897b1d5a34dbecebbc3d7863bc8a120a2"
+    url = "https://github.com/JuliaBinaryWrappers/libportaudio_ringbuffer_jll.jl/releases/download/libportaudio_ringbuffer-v19.6.0+0/libportaudio_ringbuffer.v19.6.0.aarch64-linux-gnu.tar.gz"
+[[libportaudio_ringbuffer]]
+arch = "i686"
+git-tree-sha1 = "dd255c3c3fe5ecd493c37f21331058fd142de5a6"
+libc = "musl"
+os = "linux"
+
+    [[libportaudio_ringbuffer.download]]
+    sha256 = "b84bebc55aa76d96aae30566183901e1b501de414ae7c685ad9fdaf64ef8da6c"
+    url = "https://github.com/JuliaBinaryWrappers/libportaudio_ringbuffer_jll.jl/releases/download/libportaudio_ringbuffer-v19.6.0+0/libportaudio_ringbuffer.v19.6.0.i686-linux-musl.tar.gz"
+[[libportaudio_ringbuffer]]
+arch = "x86_64"
+git-tree-sha1 = "53fd326ac92fdff7b4db31cf4fbe0867603ef44d"
+os = "freebsd"
+
+    [[libportaudio_ringbuffer.download]]
+    sha256 = "e185a4caf1046ba38f2058e53a14ec8870d4442146833ef108224fa567b64aa7"
+    url = "https://github.com/JuliaBinaryWrappers/libportaudio_ringbuffer_jll.jl/releases/download/libportaudio_ringbuffer-v19.6.0+0/libportaudio_ringbuffer.v19.6.0.x86_64-unknown-freebsd11.1.tar.gz"
+[[libportaudio_ringbuffer]]
+arch = "i686"
+git-tree-sha1 = "7807a495a88744ae8d0f9b7720a1857b5a357632"
+os = "windows"
+
+    [[libportaudio_ringbuffer.download]]
+    sha256 = "28f8d51336c1184fda692c1c3eb6c6256372260ef377ea4c6445a3f8d122c285"
+    url = "https://github.com/JuliaBinaryWrappers/libportaudio_ringbuffer_jll.jl/releases/download/libportaudio_ringbuffer-v19.6.0+0/libportaudio_ringbuffer.v19.6.0.i686-w64-mingw32.tar.gz"
+[[libportaudio_ringbuffer]]
+arch = "armv7l"
+git-tree-sha1 = "227e6963f8ef0b72a4510923aeec2f515e1fbd1f"
+libc = "musl"
+os = "linux"
+
+    [[libportaudio_ringbuffer.download]]
+    sha256 = "edbaa13bac30fd065de7aefb30d47971ea75ee78bc02b20ab10fb830f614f2d6"
+    url = "https://github.com/JuliaBinaryWrappers/libportaudio_ringbuffer_jll.jl/releases/download/libportaudio_ringbuffer-v19.6.0+0/libportaudio_ringbuffer.v19.6.0.arm-linux-musleabihf.tar.gz"
